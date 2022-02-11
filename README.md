@@ -42,4 +42,4 @@ NOTES:
 	Handling exceptions, without crash or unhandled exception
 
 - Chapter 9:
-	* Chapter 9 notes
+	Manage resources safely with USING
