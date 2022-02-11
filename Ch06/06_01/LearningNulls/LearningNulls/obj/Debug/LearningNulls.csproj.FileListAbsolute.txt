@@ -4,3 +4,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNul
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csprojResolveAssemblyReference.cache
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.pdb
