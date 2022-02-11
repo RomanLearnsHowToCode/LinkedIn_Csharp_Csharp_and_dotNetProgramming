@@ -32,10 +32,12 @@ NOTES:
 	Threads and multithreading, tasks
 
 - Chapter 6:
-	
+	Dealing with NULLS and null coalescing ? / ??
 
 - Chapter 7:
-	* Chapter 7 notes
+	String interpolation - inject expressions into strings
+	String interpolation is done by var s2 = $"Hello {world}";
+
 - Chapter 8:
 	* Chapter 8 notes
 - Chapter 9:
