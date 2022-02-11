@@ -4,3 +4,10 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_01\LearningProperties\Learni
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csprojResolveAssemblyReference.cache
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\bin\Debug\LearningProperties.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\bin\Debug\LearningProperties.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\bin\Debug\LearningProperties.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csprojAssemblyReference.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch04\04_01\LearningProperties\LearningProperties\obj\Debug\LearningProperties.pdb
