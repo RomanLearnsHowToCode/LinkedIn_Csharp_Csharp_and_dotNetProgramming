@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+// Concurrent dictionary
 namespace LearningConcurrent
 {
     class Program
@@ -14,6 +15,7 @@ namespace LearningConcurrent
 
         static void Main(string[] args)
         {
+            //
             Thread thread1 = new Thread(new ThreadStart(AddItem));
             Thread thread2 = new Thread(new ThreadStart(AddItem));
 
@@ -22,7 +24,7 @@ namespace LearningConcurrent
         }
 
         static void AddItem()
-        {
+        {   // Concurrent dictionary = try add instead of add
             items.TryAdd(1, 2);
             Console.WriteLine(items.Count);
         }

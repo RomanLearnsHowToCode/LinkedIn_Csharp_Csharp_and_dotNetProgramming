@@ -3,3 +3,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningQueue\LearningQue
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningQueue\LearningQueue\bin\Debug\LearningQueue.pdb
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningQueue\LearningQueue\obj\Debug\LearningQueue.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningQueue\LearningQueue\obj\Debug\LearningQueue.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\bin\Debug\LearningQueue.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\bin\Debug\LearningQueue.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\bin\Debug\LearningQueue.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\obj\Debug\LearningQueue.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\obj\Debug\LearningQueue.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_10\LearningQueue\LearningQueue\obj\Debug\LearningQueue.pdb

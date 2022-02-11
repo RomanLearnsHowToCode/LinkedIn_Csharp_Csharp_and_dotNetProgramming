@@ -3,3 +3,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_09\LearningStack\LearningSta
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_09\LearningStack\LearningStack\bin\Debug\LearningStack.pdb
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_09\LearningStack\LearningStack\obj\Debug\LearningStack.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_09\LearningStack\LearningStack\obj\Debug\LearningStack.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\bin\Debug\LearningStack.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\bin\Debug\LearningStack.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\bin\Debug\LearningStack.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\obj\Debug\LearningStack.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\obj\Debug\LearningStack.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_09\LearningStack\LearningStack\obj\Debug\LearningStack.pdb

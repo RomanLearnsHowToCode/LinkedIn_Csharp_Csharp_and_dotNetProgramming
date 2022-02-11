@@ -1,1 +1,8 @@
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningArrayLists\LearningArrayLists\bin\Debug\LearningArrayLists.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\bin\Debug\LearningArrayLists.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\bin\Debug\LearningArrayLists.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\bin\Debug\LearningArrayLists.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\obj\Debug\LearningArrayLists.csprojAssemblyReference.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\obj\Debug\LearningArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\obj\Debug\LearningArrayLists.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_04\LearningArrayLists\LearningArrayLists\obj\Debug\LearningArrayLists.pdb

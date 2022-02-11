@@ -4,3 +4,10 @@ c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\Learni
 c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csprojResolveAssemblyReference.cache
 c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.exe
 c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\bin\Debug\LearningDotNet.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csprojAssemblyReference.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch01\01_03\LearningDotNet\LearningDotNet\obj\Debug\LearningDotNet.pdb
