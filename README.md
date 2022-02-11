@@ -2,6 +2,9 @@
 
 - a C# and .NET focused course: https://www.linkedin.com/learning/c-sharp-dot-net-programming 
 
+- Repository successfully cloned into Visual Studio, .CS console files are now starting up and running
+- Git Commit TEST: Commenced on 11/02/2022 - 12:13
+
 NOTES:
 - Chapter 1:
 - Chapter 2:
