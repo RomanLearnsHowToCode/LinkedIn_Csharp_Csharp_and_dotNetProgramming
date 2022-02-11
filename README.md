@@ -29,9 +29,11 @@ NOTES:
 	*Introduction to properties
 
 - Chapter 5:
-	* Chapter 5 notes
+	Threads and multithreading, tasks
+
 - Chapter 6:
-	* Chapter 6 notes
+	
+
 - Chapter 7:
 	* Chapter 7 notes
 - Chapter 8:
