@@ -3,3 +3,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_01\LearningAsync\LearningAsy
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_01\LearningAsync\LearningAsync\bin\Debug\LearningAsync.pdb
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_01\LearningAsync\LearningAsync\obj\Debug\LearningAsync.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_01\LearningAsync\LearningAsync\obj\Debug\LearningAsync.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\bin\Debug\LearningAsync.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\bin\Debug\LearningAsync.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\bin\Debug\LearningAsync.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\obj\Debug\LearningAsync.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\obj\Debug\LearningAsync.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_01\LearningAsync\LearningAsync\obj\Debug\LearningAsync.pdb

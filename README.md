@@ -23,9 +23,11 @@ NOTES:
 
 - Chapter 3:
 	* Changing program flow with Async programming:
+	ASYNC, ASYNC with AWAIT, CALLBACKS
 
 - Chapter 4:
-	* Chapter 4 notes
+	*Introduction to properties
+
 - Chapter 5:
 	* Chapter 5 notes
 - Chapter 6:

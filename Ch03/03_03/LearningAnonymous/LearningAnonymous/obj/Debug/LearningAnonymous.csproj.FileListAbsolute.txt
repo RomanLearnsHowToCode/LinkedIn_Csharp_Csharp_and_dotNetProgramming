@@ -4,3 +4,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\Learnin
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.csprojResolveAssemblyReference.cache
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.pdb

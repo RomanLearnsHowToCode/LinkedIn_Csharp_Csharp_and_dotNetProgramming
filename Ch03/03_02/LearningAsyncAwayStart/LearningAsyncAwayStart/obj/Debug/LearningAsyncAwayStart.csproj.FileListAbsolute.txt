@@ -4,3 +4,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\Le
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csprojResolveAssemblyReference.cache
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch03\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.pdb

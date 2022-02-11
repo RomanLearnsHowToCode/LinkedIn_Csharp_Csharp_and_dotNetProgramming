@@ -9,3 +9,4 @@ C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_11\L
 C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.csproj.CoreCompileInputs.cache
 C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.exe
 C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.csprojAssemblyReference.cache
