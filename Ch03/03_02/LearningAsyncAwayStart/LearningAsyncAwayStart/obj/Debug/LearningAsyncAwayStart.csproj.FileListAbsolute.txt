@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\LearningAsyncAwayStart.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_02\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\LearningAsyncAwayStart.pdb

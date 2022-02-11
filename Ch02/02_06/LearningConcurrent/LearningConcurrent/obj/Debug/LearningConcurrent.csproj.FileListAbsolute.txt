@@ -1,0 +1,5 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_06\LearningConcurrent\LearningConcurrent\bin\Debug\LearningConcurrent.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_06\LearningConcurrent\LearningConcurrent\bin\Debug\LearningConcurrent.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_06\LearningConcurrent\LearningConcurrent\bin\Debug\LearningConcurrent.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_06\LearningConcurrent\LearningConcurrent\obj\Debug\LearningConcurrent.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_06\LearningConcurrent\LearningConcurrent\obj\Debug\LearningConcurrent.pdb

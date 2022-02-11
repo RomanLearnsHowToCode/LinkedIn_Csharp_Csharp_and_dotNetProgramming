@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\bin\Debug\LearningFinally.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\bin\Debug\LearningFinally.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\bin\Debug\LearningFinally.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\obj\Debug\LearningFinally.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\obj\Debug\LearningFinally.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_03\LearningFinally\LearningFinally\obj\Debug\LearningFinally.pdb

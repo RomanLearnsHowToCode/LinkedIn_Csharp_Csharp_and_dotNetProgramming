@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\bin\Debug\LearningThreads.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\05_02\LearningThreads\LearningThreads\obj\Debug\LearningThreads.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\bin\Debug\LearningAnonymous.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\03_03\LearningAnonymous\LearningAnonymous\obj\Debug\LearningAnonymous.pdb

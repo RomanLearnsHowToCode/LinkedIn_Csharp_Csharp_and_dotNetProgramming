@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\bin\Debug\LearningHashTables.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\bin\Debug\LearningHashTables.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\bin\Debug\LearningHashTables.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\obj\Debug\LearningHashTables.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\obj\Debug\LearningHashTables.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_04\LearningHashTables\LearningHashTables\obj\Debug\LearningHashTables.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_02\LearningAutoProperties\LearningAutoProperties\bin\Debug\LearningAutoProperties.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_02\LearningAutoProperties\LearningAutoProperties\bin\Debug\LearningAutoProperties.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_02\LearningAutoProperties\LearningAutoProperties\bin\Debug\LearningAutoProperties.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_02\LearningAutoProperties\LearningAutoProperties\obj\Debug\LearningAutoProperties.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\04_02\LearningAutoProperties\LearningAutoProperties\obj\Debug\LearningAutoProperties.pdb

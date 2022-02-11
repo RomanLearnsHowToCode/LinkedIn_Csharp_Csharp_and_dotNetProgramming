@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\bin\Debug\LearningNulls.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch06\06_01\LearningNulls\LearningNulls\obj\Debug\LearningNulls.pdb

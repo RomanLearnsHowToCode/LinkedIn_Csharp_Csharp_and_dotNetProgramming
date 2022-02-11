@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\bin\Debug\LearningBitArray.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\bin\Debug\LearningBitArray.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\bin\Debug\LearningBitArray.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\obj\Debug\LearningBitArray.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\obj\Debug\LearningBitArray.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_07\LearningBitArray\LearningBitArray\obj\Debug\LearningBitArray.pdb

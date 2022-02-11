@@ -1,0 +1,5 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\bin\Debug\LearningDictionaries.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_03\LearningDictionaries\LearningDictionaries\obj\Debug\LearningDictionaries.pdb

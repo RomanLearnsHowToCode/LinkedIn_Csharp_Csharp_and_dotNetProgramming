@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\bin\Debug\LearningExceptions.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\bin\Debug\LearningExceptions.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\bin\Debug\LearningExceptions.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\obj\Debug\LearningExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\obj\Debug\LearningExceptions.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_02\LearningExceptions\LearningExceptions\obj\Debug\LearningExceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\LearningStringInterpolation.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\LearningStringInterpolation.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\bin\Debug\LearningStringInterpolation.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\LearningStringInterpolation.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\LearningStringInterpolation.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch07\07_02\LearningStringInterpolation\LearningStringInterpolation\obj\Debug\LearningStringInterpolation.pdb

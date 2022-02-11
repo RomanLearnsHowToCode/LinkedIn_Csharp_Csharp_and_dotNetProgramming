@@ -1,0 +1,6 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\bin\Debug\LearningUsing.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\bin\Debug\LearningUsing.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\bin\Debug\LearningUsing.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\obj\Debug\LearningUsing.csprojResolveAssemblyReference.cache
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\obj\Debug\LearningUsing.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch09\09_02\LearningUsing\LearningUsing\obj\Debug\LearningUsing.pdb

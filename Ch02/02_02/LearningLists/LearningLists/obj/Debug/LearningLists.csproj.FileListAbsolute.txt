@@ -1,0 +1,6 @@
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\bin\Debug\LearningLists.exe.config
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\bin\Debug\LearningLists.exe
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\bin\Debug\LearningLists.pdb
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\obj\Debug\LearningLists.csprojResolveAssemblyReference.cache
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\obj\Debug\LearningLists.exe
+c:\users\alex zanfir\documents\visual studio 2015\Projects\LearningLists\LearningLists\obj\Debug\LearningLists.pdb

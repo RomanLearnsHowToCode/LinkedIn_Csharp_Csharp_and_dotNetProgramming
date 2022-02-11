@@ -1,0 +1,5 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_11\LearningHashSet\LearningHashSet\bin\Debug\LearningHashSet.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_11\LearningHashSet\LearningHashSet\bin\Debug\LearningHashSet.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_11\LearningHashSet\LearningHashSet\bin\Debug\LearningHashSet.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_11\LearningHashSet\LearningHashSet\obj\Debug\LearningHashSet.pdb

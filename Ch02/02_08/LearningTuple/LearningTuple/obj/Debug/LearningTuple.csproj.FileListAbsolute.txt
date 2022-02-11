@@ -1,0 +1,5 @@
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningTuple\LearningTuple\bin\Debug\LearningTuple.exe.config
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningTuple\LearningTuple\bin\Debug\LearningTuple.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningTuple\LearningTuple\bin\Debug\LearningTuple.pdb
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningTuple\LearningTuple\obj\Debug\LearningTuple.exe
+C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch02\02_10\LearningTuple\LearningTuple\obj\Debug\LearningTuple.pdb
