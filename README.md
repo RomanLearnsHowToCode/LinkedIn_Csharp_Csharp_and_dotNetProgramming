@@ -39,6 +39,7 @@ NOTES:
 	String interpolation is done by var s2 = $"Hello {world}";
 
 - Chapter 8:
-	* Chapter 8 notes
+	Handling exceptions, without crash or unhandled exception
+
 - Chapter 9:
 	* Chapter 9 notes

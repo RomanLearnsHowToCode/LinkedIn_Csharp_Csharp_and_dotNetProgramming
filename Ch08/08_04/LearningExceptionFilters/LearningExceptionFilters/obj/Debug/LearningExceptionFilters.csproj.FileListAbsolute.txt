@@ -4,3 +4,9 @@ C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_04\LearningExceptionFilters\
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.exe
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.pdb
 C:\Users\Alex Zanfir\Desktop\Exercise Files\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\LearningExceptionFilters.exe.config
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\LearningExceptionFilters.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\LearningExceptionFilters.pdb
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.exe
+C:\Users\Roman\Source\Repos\RomanLearnsHowToCode\Ex_Files_Csharpnet\Ch08\08_04\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\LearningExceptionFilters.pdb
